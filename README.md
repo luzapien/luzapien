@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm María Rodríguez Zapién</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on [Burger Queen-api-client](https://github.com/luzapien/DEV003-burger-queen-api-client)
+- 🔭 I’m currently working on [angular-pokedex](https://github.com/luzapien/angular-pokedex)
 
 - 🌱 I’m currently learning **Angular**
 
