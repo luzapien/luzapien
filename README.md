@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [angular-pokedex](https://github.com/luzapien/angular-pokedex)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently improving my skills in **Angular** and learning about **POO** with **Phyton**
 
 - 📫 How to reach me **lu.rzapien.92@gmail.com**
 
