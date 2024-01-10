@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm María Rodríguez Zapién</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h3 align="center">A Jr Developer from México</h3>
 
 - 🔭 I’m currently working as Jr Developer
 
