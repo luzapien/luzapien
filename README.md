@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm María Rodríguez Zapién</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on [angular-pokedex](https://github.com/luzapien/angular-pokedex)
+- 🔭 I’m currently working as Jr Developer
 
-- 🌱 I’m currently improving my skills in **Angular** and learning about **OOP** with **Phyton**
+- 🌱 I’m currently improving my skills in **Typescript and Node.Js** and learning about **REACT**
 
 - 📫 How to reach me **lu.rzapien.92@gmail.com**
 
