@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lu.rzapien.92@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u4X5ak2oHUq-tKzpnTiSDBaK59hloVjk/view?usp=share_link](https://drive.google.com/file/d/1u4X5ak2oHUq-tKzpnTiSDBaK59hloVjk/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
