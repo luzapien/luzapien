@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Jr Developer
 
-- 🌱 I’m currently improving my skills in **Typescript and Node.Js** and learning about **REACT**
+- 🌱 I’m currently improving my skills in **Typescript and Node.Js**
 
 - 📫 How to reach me **lu.rzapien.92@gmail.com**
 
